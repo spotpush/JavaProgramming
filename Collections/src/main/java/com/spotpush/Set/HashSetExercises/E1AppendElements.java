@@ -13,10 +13,10 @@ public class E1AppendElements
         HashSet<String> hs = new HashSet<>();
         
         //adding elements
-        hs.add("Stephen J. H");
-        hs.add("Kate C. H");
-        hs.add("Ana J. H");
-        hs.add("Elizabeth E. H");
+        hs.add("Stephen");
+        hs.add("Kate");
+        hs.add("Ana");
+        hs.add("Elizabeth");
         //notice how the output display is bottom up
         System.out.println("HashSet contents: "+hs);
         
