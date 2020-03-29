@@ -6,10 +6,25 @@ package com.spotpush.inheritance;
 
 /*Imports*/
 
-public class Inheritance 
+class Base 
 {
-    public static void main(String[] args) 
+    public void show() {
+        System.out.println("Base::show() called");
+    }
+}   
+ 
+class Derived extends Base {
+
+    public void show() {
+        System.out.println("Derived::show() called");
+    }
+}
+    
+  
+public class Inheritance {
+    public static void main(String[] args)
     {
-        
+        Base b = new Derived();
+        b.show();
     }
 }
