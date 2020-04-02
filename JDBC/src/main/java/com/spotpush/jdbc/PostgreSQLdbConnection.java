@@ -1,5 +1,5 @@
 /*
-provides a connection to the MySQL db
+provides a connection to the PostgreSQL db
 */
 /** @author Stephen Hardy @ spotpush.com */
 package com.spotpush.jdbc;
@@ -16,7 +16,7 @@ import java.util.Properties;
 /* Imports */
 
 
-public class MySQLdbConnection 
+public class PostgreSQLdbConnection 
 {
     public static void main(String[] args) 
     {
@@ -25,16 +25,16 @@ public class MySQLdbConnection
         try (InputStream input = new FileInputStream("C:\\gitrepo\\JavaProgramming\\JDBC\\src\\main\\java\\resources/db.properties")) {
             Properties prop = new Properties();
             prop.load(input);
-            String url = prop.getProperty("MYSQL_DB_URL");
-            String user = prop.getProperty("MYSQL_USER");
-            String password = prop.getProperty("MYSQL_PASSWORD");
-            Class.forName("com.mysql.jdbc.Driver");
+            String url = prop.getProperty("POSTGRE_DB_URL");
+            String user = prop.getProperty("POSTGRE_USER");
+            String password = prop.getProperty("POSTGRE_PASSWORD");
+            Class.forName("org.postgresql.Driver");
             System.out.println("Connecting to Database...");
             conn = DriverManager.getConnection(url,user,password);
             System.out.println("Creating a Statement...");
             stmt = conn.createStatement();
             String sql;
-            sql = "SELECT * FROM actor WHERE last_name like 'G%'";
+            sql = "SELECT * FROM actor WHERE last_name like 'W%'";
             ResultSet rs = stmt.executeQuery(sql);
             while(rs.next()) {
                 int actor_id = rs.getInt("actor_id");
