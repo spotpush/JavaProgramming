@@ -8,6 +8,9 @@ package com.spotpush.methods;
 
 public class CallingAMethod 
 {
+    
+    
+    
     public static void main(String[] args) 
     {
     
