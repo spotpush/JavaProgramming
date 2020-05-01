@@ -1,0 +1,100 @@
+May 01, 2020 12:47:21 PM com.spotpush.jul.SysOutSysErr main
+SEVERE: Simulating and Exception
+java.lang.Exception: Simulating and Exception
+	at com.spotpush.jul.SysOutSysErr.main(SysOutSysErr.java:37)
+
+May 01, 2020 12:47:21 PM com.spotpush.jul.SysOutSysErr main
+SEVERE: Simulating and Exception
+java.lang.Exception: Simulating and Exception
+	at com.spotpush.jul.SysOutSysErr.main(SysOutSysErr.java:37)
+
+May 01, 2020 12:47:21 PM com.spotpush.jul.SysOutSysErr main
+INFO: This is a info-level message
+May 01, 2020 12:47:21 PM com.spotpush.jul.SysOutSysErr main
+INFO: This is a info-level message
+May 01, 2020 12:47:21 PM com.spotpush.jul.SysOutSysErr main
+CONFIG: This is a config-level message
+May 01, 2020 12:47:21 PM com.spotpush.jul.SysOutSysErr main
+FINE: This is a fine-level message
+Writing to System.out
+Writing to System.err
+May 01, 2020 12:52:24 PM com.spotpush.jul.SysOutSysErr main
+SEVERE: Simulating and Exception
+java.lang.Exception: Simulating and Exception
+	at com.spotpush.jul.SysOutSysErr.main(SysOutSysErr.java:37)
+
+May 01, 2020 12:52:24 PM com.spotpush.jul.SysOutSysErr main
+SEVERE: Simulating and Exception
+java.lang.Exception: Simulating and Exception
+	at com.spotpush.jul.SysOutSysErr.main(SysOutSysErr.java:37)
+
+May 01, 2020 12:52:24 PM com.spotpush.jul.SysOutSysErr main
+INFO: This is a info-level message
+May 01, 2020 12:52:24 PM com.spotpush.jul.SysOutSysErr main
+INFO: This is a info-level message
+May 01, 2020 12:52:24 PM com.spotpush.jul.SysOutSysErr main
+CONFIG: This is a config-level message
+May 01, 2020 12:52:24 PM com.spotpush.jul.SysOutSysErr main
+FINE: This is a fine-level message
+Writing to System.out
+Writing to System.err
+May 01, 2020 12:58:01 PM com.spotpush.jul.SysOutSysErr main
+SEVERE: Simulating and Exception
+java.lang.Exception: Simulating and Exception
+	at com.spotpush.jul.SysOutSysErr.main(SysOutSysErr.java:37)
+
+May 01, 2020 12:58:01 PM com.spotpush.jul.SysOutSysErr main
+SEVERE: Simulating and Exception
+java.lang.Exception: Simulating and Exception
+	at com.spotpush.jul.SysOutSysErr.main(SysOutSysErr.java:37)
+
+May 01, 2020 12:58:01 PM com.spotpush.jul.SysOutSysErr main
+INFO: This is a info-level message
+May 01, 2020 12:58:01 PM com.spotpush.jul.SysOutSysErr main
+INFO: This is a info-level message
+May 01, 2020 12:58:01 PM com.spotpush.jul.SysOutSysErr main
+CONFIG: This is a config-level message
+May 01, 2020 12:58:01 PM com.spotpush.jul.SysOutSysErr main
+FINE: This is a fine-level message
+Writing to System.out
+Writing to System.err
+May 01, 2020 12:58:56 PM com.spotpush.jul.SysOutSysErr main
+SEVERE: Simulating and Exception
+java.lang.Exception: Simulating and Exception
+	at com.spotpush.jul.SysOutSysErr.main(SysOutSysErr.java:37)
+
+May 01, 2020 12:58:56 PM com.spotpush.jul.SysOutSysErr main
+SEVERE: Simulating and Exception
+java.lang.Exception: Simulating and Exception
+	at com.spotpush.jul.SysOutSysErr.main(SysOutSysErr.java:37)
+
+May 01, 2020 12:58:56 PM com.spotpush.jul.SysOutSysErr main
+INFO: This is a info-level message
+May 01, 2020 12:58:56 PM com.spotpush.jul.SysOutSysErr main
+INFO: This is a info-level message
+May 01, 2020 12:58:56 PM com.spotpush.jul.SysOutSysErr main
+CONFIG: This is a config-level message
+May 01, 2020 12:58:56 PM com.spotpush.jul.SysOutSysErr main
+FINE: This is a fine-level message
+Writing to System.out
+Writing to System.err
+May 01, 2020 12:59:31 PM com.spotpush.jul.SysOutSysErr main
+SEVERE: Simulating and Exception
+java.lang.Exception: Simulating and Exception
+	at com.spotpush.jul.SysOutSysErr.main(SysOutSysErr.java:37)
+
+May 01, 2020 12:59:31 PM com.spotpush.jul.SysOutSysErr main
+SEVERE: Simulating and Exception
+java.lang.Exception: Simulating and Exception
+	at com.spotpush.jul.SysOutSysErr.main(SysOutSysErr.java:37)
+
+May 01, 2020 12:59:32 PM com.spotpush.jul.SysOutSysErr main
+INFO: This is a info-level message
+May 01, 2020 12:59:32 PM com.spotpush.jul.SysOutSysErr main
+INFO: This is a info-level message
+May 01, 2020 12:59:32 PM com.spotpush.jul.SysOutSysErr main
+CONFIG: This is a config-level message
+May 01, 2020 12:59:32 PM com.spotpush.jul.SysOutSysErr main
+FINE: This is a fine-level message
+Writing to System.out
+Writing to System.err

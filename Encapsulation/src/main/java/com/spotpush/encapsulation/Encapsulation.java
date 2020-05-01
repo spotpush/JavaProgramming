@@ -16,7 +16,7 @@ public class Encapsulation
     //instance variable 'encapsulation'
     //private declaration means 'encapsulation' isn't accessible from outside
     //this class 
-    private String encapsulation;
+    String encapsulation;
     
     //Getter - Read Only access, also referred to as an 'Accessor Method'
     //this 'get' method returns the value of the variable 'encapsulation'
