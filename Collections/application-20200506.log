@@ -1,0 +1,13 @@
+2020-05-06 18:25:53.874 [main] INFO  com.spotpush.maps.HashMapExample - ===================================
+2020-05-06 18:25:53.877 [main] INFO  com.spotpush.maps.HashMapExample - ============ New Run ==============
+2020-05-06 18:25:53.877 [main] INFO  com.spotpush.maps.HashMapExample - ===================================
+2020-05-06 18:25:53.877 [main] INFO  com.spotpush.maps.HashMapExample - Create HashMap {3=Elizabeth, 6=Ana, 41=Kate, 42=Stephen}
+2020-05-06 18:26:00.660 [main] INFO  com.spotpush.maps.HashMapExample - Main Menu Option: 2
+2020-05-06 18:26:03.961 [main] INFO  com.spotpush.maps.HashMapExample - Traverse HashMap Option: 1
+2020-05-06 18:26:05.461 [main] INFO  com.spotpush.maps.HashMapExample - Keys or Values Option: 1
+2020-05-06 18:26:05.463 [main] TRACE com.spotpush.maps.HashMapExample - Enter  JustKeys() {3=Elizabeth, 6=Ana, 41=Kate, 42=Stephen}
+2020-05-06 18:26:05.464 [main] TRACE com.spotpush.maps.HashMapExample - select each key: 3
+2020-05-06 18:26:05.464 [main] TRACE com.spotpush.maps.HashMapExample - select each key: 6
+2020-05-06 18:26:05.464 [main] TRACE com.spotpush.maps.HashMapExample - select each key: 41
+2020-05-06 18:26:05.464 [main] TRACE com.spotpush.maps.HashMapExample - select each key: 42
+2020-05-06 18:26:05.465 [main] TRACE com.spotpush.maps.HashMapExample - Exit with( JustKeys() {3=Elizabeth, 6=Ana, 41=Kate, 42=Stephen})

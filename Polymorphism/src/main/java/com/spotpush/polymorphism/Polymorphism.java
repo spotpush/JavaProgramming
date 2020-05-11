@@ -1,10 +1,10 @@
-/**
-Class for defining Polymorphism in Java
-*/
-/** @author Stephen Hardy @ spotpush.com  */
 package com.spotpush.polymorphism;
 
-/*Imports*/
+/**
+* Class for defining Polymorphism in Java
+*
+* @author Stephen Hardy @ spotpush.com  
+*/
 
 public class Polymorphism 
 {

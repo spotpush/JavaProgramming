@@ -1,0 +1,10 @@
+2020-05-04 12:03:49.199 [main] DEBUG com.spotpush.logginglog4j.Log4jExample - We've just greeted the user!
+2020-05-04 12:03:49.202 [main] INFO  com.spotpush.logginglog4j.Log4jExample - We've just greeted the user!
+2020-05-04 12:03:49.202 [main] WARN  com.spotpush.logginglog4j.Log4jExample - We've just greeted the user!
+2020-05-04 12:03:49.202 [main] ERROR com.spotpush.logginglog4j.Log4jExample - We've just greeted the user!
+2020-05-04 12:03:49.202 [main] FATAL com.spotpush.logginglog4j.Log4jExample - We've just greeted the user!
+2020-05-04 13:46:57.513 [main] DEBUG com.spotpush.logginglog4j.Log4jExample - We've just greeted the user!
+2020-05-04 13:47:44.690 [main] DEBUG com.spotpush.logginglog4j.Log4jExample - We've just greeted the user!
+2020-05-04 13:48:30.469 [main] DEBUG com.spotpush.logginglog4j.Log4jExample - We've just greeted the user!
+2020-05-04 13:54:30.240 [main] DEBUG com.spotpush.logginglog4j.Log4jExample - We've just greeted the user!
+2020-05-04 13:55:34.957 [main] DEBUG com.spotpush.logginglog4j.Log4jExample - We've just greeted the user!

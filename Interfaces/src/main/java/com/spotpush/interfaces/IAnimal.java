@@ -5,7 +5,7 @@ Animal Interface
 package com.spotpush.interfaces;
 /* Imports */
 
-//- Interface methods (animalSound, run, sleep) do not have method bodies
+//- Interface methods (animalSound, run, sleep) do not have bodies
 //  they are defined in the 'implements' file(s) dog.java, pig.java
 //- Java doesn't support multiple inheritance, however interfaces are a way 
 //  to achieve this because a class can implement multiple interfaces
