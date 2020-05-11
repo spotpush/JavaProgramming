@@ -15,4 +15,13 @@
 /TuplesInJava/target/
 >>>>>>> c37416d0433da825186e6a0f978fe8bb6b783aac
 /JUnit/nbproject/
+<<<<<<< HEAD
 /ObjectSerialization/target/
+=======
+/Logging/target/
+/Collections/nbproject/
+/Algorithms/nbproject/
+/Annotations/target/
+/EnumeratedType/target/
+/Methods/target/
+>>>>>>> ec5cffbff0352c1b9d8ef5d436476c5d7c9367a1

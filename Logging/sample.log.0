@@ -1,0 +1,12 @@
+May 01, 2020 2:52:58 PM com.spotpush.jul.SequenceLogFile main
+INFO: Logging info message
+May 01, 2020 2:52:58 PM com.spotpush.jul.SequenceLogFile main
+WARNING: Logging warning message
+May 01, 2020 2:53:03 PM com.spotpush.jul.SequenceLogFile main
+INFO: Logging info message
+May 01, 2020 2:53:03 PM com.spotpush.jul.SequenceLogFile main
+WARNING: Logging warning message
+May 01, 2020 2:53:06 PM com.spotpush.jul.SequenceLogFile main
+INFO: Logging info message
+May 01, 2020 2:53:06 PM com.spotpush.jul.SequenceLogFile main
+WARNING: Logging warning message
