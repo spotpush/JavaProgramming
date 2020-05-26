@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<simpleJAXBMarshallingExample id="1">
+    <name>Stephen Hardy</name>
+    <salary>150000.0</salary>
+</simpleJAXBMarshallingExample>

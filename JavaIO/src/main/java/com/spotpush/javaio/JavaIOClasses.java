@@ -1,8 +1,5 @@
 package com.spotpush.javaio;
-/**
-* Exploring the different classes within the java.io package
-* @author Stephen Hardy @ spotpush.com
-*/
+
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
@@ -12,12 +9,15 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
+/**
+* Exploring the different classes within the java.io package
+* @author Stephen Hardy @ spotpush.com
+*/
 
 public class JavaIOClasses {
 
     
     static void bufferedInputStream() throws IOException {
-        
         try {
             BufferedInputStream bIS = new BufferedInputStream(new FileInputStream(
                "c://JavaIOFiles//JavaIO.txt"));
@@ -27,7 +27,6 @@ public class JavaIOClasses {
             }
             bIS.close();
             System.out.print(content);
-            
         } catch (IOException e) {
             e.printStackTrace();
             throw e;
